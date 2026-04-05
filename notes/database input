@@ -1,0 +1,5 @@
+They're working on putting information into an excel file. Currently they manualy enter data in to the database via the website.
+
+I think the optimal solution would be to input data into the excel sheet and then upload the data to the website via the API.
+
+Need access to the every action API.

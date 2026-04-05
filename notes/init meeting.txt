@@ -1,0 +1,30 @@
+GOALS:
+
+
+CRN with the capacity of keeping a wealth of information about our supporters beyond contact/demographics. Rich contribution history/volunteer history
+
+
+
+
+
+
+enter volunteer hours into the system
+- maybe a gui tool (.html) to enter the information quickly and easily into the excel
+
+volunteer onboarding, where do we lose them?
+
+are certain days/times better for onboarding?
+
+anything else we could easily visualize?
+
+
+
+
+they use everyaction.com
+
+- they do have API access
+
+
+
+
+VANID, NO contact name, status, role, event type,
